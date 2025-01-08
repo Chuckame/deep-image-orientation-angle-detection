@@ -16,6 +16,11 @@ python3.11 -m pip install -r requirements.txt
 python3.11 ./infer-rotation.py --image-path ./inputs/download.jpeg
 ```
 
+## Convert weights to onnx
+
+- save model using SavedModel format
+- use tf2onnx
+
 
 ## Citation
 This paper is submitted for journal publication. If you are using this model then please use the below BibTeX to cite for now.

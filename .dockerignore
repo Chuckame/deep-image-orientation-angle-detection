@@ -1,0 +1,6 @@
+./preds
+./notebooks
+#./inputs
+./.venv
+./data
+./README.md
